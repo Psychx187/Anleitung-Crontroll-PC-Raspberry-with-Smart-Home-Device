@@ -3,7 +3,7 @@ Anleitung: PC/Raspberry steuern mit Smart-Home-Devices(Amazon/Google)
 
 1. Benötigten Programme/Datein 
 Setup Anleitung mit allen benötigten programmen zum Starten: https://www.push2run.com/setup.html
--https://ifttt.com           |Muss mit PUSHBULLET verknüpft werden		 [Fertige Applet| Title:SSIDHARTH]*¹
+-https://ifttt.com           |Muss mit PUSHBULLET verknüpft werden	
 -https://www.pushbullet.com/ |Hier zu ist der Acess Token nötig (Settings/Account)
 -http://www.push2run.com/Push2RunSetup.exe [Direct Download]
 
