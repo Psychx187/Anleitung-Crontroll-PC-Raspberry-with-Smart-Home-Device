@@ -32,7 +32,7 @@ Push a note
 This Action will push a new note to your Pushbullet inbox.
 
 Title (optional)
-SSIDHARTH
+SSIDHARTH*¹
 
 Message (optional)
 -Leer-
@@ -40,3 +40,5 @@ Message (optional)
 Nun kannst du Push2Run mit deinen wunsch Funktionen konfigurieren examples findest du auf
 -https://www.push2run.com/examplecards.html
 
+
+*¹WICHTIG DER TITLE[SSIDHARTH] IN DER APPLET MUSS IDENTISCH MIT DEN TITLE FILTER IN P2R[OPTIONS/PUSHBULLET/TITLE FILTER= SSIDHARTH]SEIN*
