@@ -3,17 +3,40 @@ Anleitung: PC/Raspberry steuern mit Smart-Home-Devices(Amazon/Google)
 
 1. Benötigten Programme/Datein 
 Setup Anleitung mit allen benötigten programmen zum Starten: https://www.push2run.com/setup.html
--https://ifttt.com           |Muss mit 
--https://www.pushbullet.com/ |
--
+-https://ifttt.com           |Muss mit PUSHBULLET verknüpft werden		 [Fertige Applet| Title:SSIDHARTH]*¹
+-https://www.pushbullet.com/ |Hier zu ist der Acess Token nötig (Settings/Account)
+-http://www.push2run.com/Push2RunSetup.exe [Direct Download]
 
+Folge der Push2Run Setup Anleitung bis alle nötigen Schirtte vollendet sind.
 
-1.1. Schritt 1: Verbinde&Aktiviere Vorraussetzung: IFTTT.com & https://www.pushbullet.com/ (Beide Accounts verknüpfen:
-								https://ifttt.com/applets/91909795d-if-you-say-computer-then-push-a-note 
-								(Sagt dem Smart-Home-Device es soll einen befehl/command auf dem Computer/Raspberry ausführen d.h. 
-								dieser Applet steuert den PC an)
+Applet erstellen überspringen[Download only Google Home]
+-https://ifttt.com/applets/91909795d-if-you-say-computer-then-push-a-note/edit
+
+Sprachbefehle $ = Geben Sie ein $ ein, an dem Sie die Textzutat sagen
+
+variante.1		-If You say "Computer $", then Push a note  
+
+variante.2		-befehl an computer $
+
+variante.3		-Nutze computer für $
+
+variante.4		-befehl an PC $
+
+Assistent antwort:	-Sende befehl auf den computer
+
+Language:		-German
+
+*WICHTIG Title muss SSIDHARTH*¹ sein* 
+
+Push a note
+This Action will push a new note to your Pushbullet inbox.
+
+Title (optional)
+SSIDHARTH
+
+Message (optional)
+-Leer-
 								
-								
-2.Push2Run Konfigurieren:
+Nun kannst du Push2Run mit deinen wunsch Funktionen konfigurieren examples findest du auf
+-https://www.push2run.com/examplecards.html
 
------------------Youtube video suchen und öffnen-------------
